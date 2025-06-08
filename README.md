@@ -40,7 +40,7 @@ MP4 Video        Embedded background video
 
 ## 🚀 How to Use
 
-1. **Clone this repository** or [Download ZIP]([https://github.com/your-username/flower-shop/archive/main.zip](https://github.com/DhruviKhanpara/Flower-shop.git))
+1. **Clone this repository** or [Download ZIP](https://github.com/DhruviKhanpara/Flower-shop/archive/refs/heads/main.zip)
 2. Open the folder
 3. Double-click `index.html` or drag it into a browser
 
