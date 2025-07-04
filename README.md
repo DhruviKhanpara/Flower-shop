@@ -6,7 +6,7 @@ This is a **simple, elegant one-page flower shop website** built using HTML, CSS
 
 ## 📸 Demo Preview
 
-> 🎥 *Add your screen recording or video demo here*
+> 🎥 *Also you can found this demo in the images folder*
 
 ![Live Preview](images/Flower-Shop.gif)
 
